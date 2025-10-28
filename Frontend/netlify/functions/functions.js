@@ -1,5 +1,5 @@
 // netlify/functions/gemini.js
-import fetch from "node-fetch";
+
 
 export async function handler(event) {
   try {
